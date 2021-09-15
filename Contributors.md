@@ -679,6 +679,7 @@ Chirantan
 - [Thang Cao](https://github.com/shiyoline)
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Kify](https://github.com/Kify7)
+- [A7]
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
